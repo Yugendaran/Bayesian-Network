@@ -100,6 +100,10 @@ plt.show()
 
 ```
 ## Output:
-''' Show the output in the form screenshorts
+![image](https://github.com/Yugendaran/Bayesian-Network/assets/128135616/c54d6995-3da1-419e-bd09-1ded7ec65338)
+
+![image](https://github.com/Yugendaran/Bayesian-Network/assets/128135616/1ce76cb8-6342-4805-b645-06bb4e41c212)
+
+
 ## Result:
    Thus a Bayesian Network is generated using Python
