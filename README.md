@@ -90,12 +90,11 @@ options = {
 n, d = bbn.to_nx_graph()
 nx.draw(n, with_labels=True, labels=d, pos=pos, **options)
 
-
-# Update margins and print the graph
 ax = plt.gca()
 ax.margins(0.10)
 plt.axis("off")
 plt.show()
+
 '''
 ## Output:
 ''' Show the output in the form screenshorts
