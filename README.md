@@ -1,4 +1,5 @@
-# Implementation of Bayesian-Network
+# EX NO : 01 Implementation of Bayesian-Network
+## DATE : 17.08.2023
 
 ## Aim :
     To create a bayesian Network for the given dataset in Python
